@@ -1,0 +1,4 @@
+#Sat May 02 23:22:05 IST 2020
+base.0=/Users/sagaracharya/Desktop/flutter_projects/redux_sample_example/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
